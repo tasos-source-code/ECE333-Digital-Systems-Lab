@@ -1,0 +1,31 @@
+# Vivado generated project data
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+
+# Build / simulation outputs
+build/
+a.out*
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Archives
+*.zip
+
+# Course assignment handouts (instructor material)
+Lab1/lab1.pdf
+Lab3/lab3.pdf
+lab4/lab4.pdf
